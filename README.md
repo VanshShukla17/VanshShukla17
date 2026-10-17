@@ -4,13 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=640&height=50&lines=Hey+there%2C+I'm+Vansh+%F0%9F%91%8B;CSE+student+%40+JSS+Academy%2C+Bengaluru;I+build+AI-powered+web+apps+%F0%9F%A4%96;Currently+exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;250%2B+DSA+problems+solved+%F0%9F%A7%A9" alt="Typing animation" />
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7B2FF7&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/badge/Open%20to-Internships-00F7FF?style=for-the-badge&logo=handshake&logoColor=black" alt="open to internships" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="420" alt="hello" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=VanshShukla17&label=Profile+Views&color=7B2FF7&style=for-the-badge" alt="views" />
 </div>
 ---
  
 ## 👨‍💻 About Me
  
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="260" alt="coding" />
 ```js
 const vansh = {
   role: "Full-Stack Developer & CSE Undergrad",
@@ -19,7 +21,7 @@ const vansh = {
   currentlyBuilding: "Quantum Quest ⚛️",
   currentlyLearning: ["Quantum Computing (Qiskit)", "System Design", "Advanced DSA"],
   funFact: "I made a horror-themed cinema app because normal ones were too boring 🎃",
-  lookingFor: "Internships, open-source collabs, and cool projects",
+  lookingFor: "Open-source collabs and cool projects",
 };
 ```
  
@@ -63,7 +65,7 @@ An AI-powered, gamified quantum learning platform with interactive lessons, quiz
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
  
-[🌐 Live Demo](your-quantum-quest-demo) • [📂 Code](your-quantum-quest-repo)
+[🌐 Live Demo](https://quantum-quest-app.netlify.app/) • 🔒 Private repo
  
 </td>
 <td width="50%" valign="top">
@@ -77,7 +79,7 @@ Reviews your code, explains it, suggests fixes and shows best / average / worst-
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
  
-[📂 Code](your-codeify-repo)
+🚧 Deployment & repo coming soon
  
 </td>
 </tr>
@@ -92,7 +94,7 @@ Horror-themed movie browsing and ticket booking with Now Showing, Midnight Shows
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
  
-[🌐 Live Demo](your-cinemacabre-demo) • [📂 Code](your-cinemacabre-repo)
+[🌐 Live Demo](https://cinemacabre.vercel.app) • [📂 Code](https://github.com/VanshShukla17/horror-cinema)
  
 </td>
 <td width="50%" valign="top">
@@ -134,17 +136,17 @@ Got an idea or want to collaborate? Open an issue or drop me a message. I'm alwa
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VanshShukla17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshShukla17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=VanshShukla17&theme=tokyonight&hide_border=true&background=0D1117" />
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=VanshShukla17&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 <details>
 <summary><b>📈 Click to view my contribution activity graph</b></summary>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshShukla17&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </details>
 ---
  
@@ -153,8 +155,8 @@ Got an idea or want to collaborate? Open an issue or drop me a message. I'm alwa
 <div align="center">
 ![DSA](https://img.shields.io/badge/DSA%20Problems%20Solved-250%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](your-leetcode-link)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](your-gfg-link)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VanshShukla17/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shuklavas930)
  
 </div>
 ---
@@ -174,9 +176,9 @@ Got an idea or want to collaborate? Open an issue or drop me a message. I'm alwa
 ## 🤝 Let's Connect
  
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-s-4271a2308/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklavansh1704@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshShukla17)
  
 <br/><br/>
  
