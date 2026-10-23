@@ -6,8 +6,6 @@
 
 ![hello](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e)
 
-![Views](https://komarev.com/ghpvc/?username=VanshShukla17&label=Profile+Views&color=7B2FF7&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/VanshShukla17?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=7B2FF7)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-s-4271a2308/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklavansh1704@gmail.com)
