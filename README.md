@@ -1,14 +1,12 @@
 <div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Vansh%20Shukla&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Quantum%20Curious&descAlignY=58&descSize=20)
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=680&height=50&lines=Hey+there%2C+I'm+Vansh+%F0%9F%91%8B;CSE+student+%40+JSS+Academy%2C+Bengaluru;I+build+AI-powered+web+apps+%F0%9F%A4%96;Currently+exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;450%2B+DSA+problems+solved+%F0%9F%A7%A9;Open+to+internships+%26+collabs+%F0%9F%9A%80)](https://github.com/VanshShukla17)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=680&height=50&lines=Hey+there%2C+I'm+Vansh+%F0%9F%91%8B;CSE+student+%40+JSS+Academy%2C+Bengaluru;I+build+AI-powered+web+apps+%F0%9F%A4%96;Currently+exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;250%2B+DSA+problems+solved+%F0%9F%A7%A9)](https://github.com/VanshShukla17)
  
 ![hello](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e)
  
 ![Views](https://komarev.com/ghpvc/?username=VanshShukla17&label=Profile+Views&color=7B2FF7&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/VanshShukla17?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=7B2FF7)
-![Stars](https://img.shields.io/github/stars/VanshShukla17?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=00BCD4)
-![Repos](https://img.shields.io/github/search/VanshShukla17/user:VanshShukla17?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=FF6F00&label=Repos)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-s-4271a2308/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklavansh1704@gmail.com)
@@ -28,7 +26,6 @@ const vansh = {
   currentlyBuilding: "Quantum Quest ⚛️",
   currentlyLearning: ["Quantum Computing (Qiskit)", "System Design", "Advanced DSA"],
   askMeAbout: ["React", "Node/Express", "FastAPI", "Supabase", "DSA"],
-  lookingFor: ["Internships", "Open-source collabs", "AI + web projects"],
   funFact: "I made a horror-themed cinema app because normal ones were too boring 🎃",
 };
 ```
@@ -43,18 +40,6 @@ const vansh = {
 ![skills2](https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma,git,github,vercel,netlify,vscode&theme=dark)
  
 </div>
-<details>
-<summary><b>🧰 Skill breakdown</b></summary>
-| Area | Tools |
-|---|---|
-| **Languages** | Java, Python, C, JavaScript |
-| **Frontend** | React, Vite, Tailwind CSS, HTML, CSS |
-| **Backend** | Node.js, Express, FastAPI |
-| **Databases** | MongoDB, PostgreSQL, Supabase, Prisma |
-| **AI / Quantum** | Gemini API, Qiskit |
-| **DevOps / Tools** | Git, GitHub, Vercel, Netlify, VS Code |
- 
-</details>
 ---
  
 ## 🚀 Featured Projects
@@ -74,41 +59,6 @@ Horror-themed cinema app: Now Showing, Midnight Shows, genres, ratings, movie pa
  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
  
-<div align="center">
-[![CineMacabre](https://github-readme-stats.vercel.app/api/pin/?username=VanshShukla17&repo=horror-cinema&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/VanshShukla17/horror-cinema)
- 
-</div>
----
- 
-## 🗺️ My Journey
- 
-```mermaid
-timeline
-    title Vansh's Dev Timeline
-    2024 : Started B.E. CSE at JSS Academy
-         : Picked up DSA and Java
-    2025 : Full-stack with React, Node, Supabase
-         : Built CineMacabre 🎃
-         : Crossed 250+ DSA problems
-    2026 : Shipped Quantum Quest ⚛️
-         : Building CODEIFY 🧪
-         : Exploring Qiskit and system design
-```
- 
----
- 
-## 🧩 Problem Solving
- 
-<div align="center">
-![DSA](https://img.shields.io/badge/DSA%20Problems%20Solved-450%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
- 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/VanshShukla17?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/VanshShukla17/)
- 
-| Platform | Profile |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=gcp" width="0" height="0"/>[![LeetCode](https://img.shields.io/badge/LeetCode-VanshShukla17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VanshShukla17/) | [![GFG](https://img.shields.io/badge/GeeksforGeeks-shuklavas930-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shuklavas930) |
- 
-</div>
 ---
  
 ## 🐍 Contribution Snake
@@ -140,32 +90,36 @@ timeline
 </details>
 ---
  
+## 🧩 Problem Solving
+ 
+<div align="center">
+![DSA](https://img.shields.io/badge/DSA%20Problems%20Solved-450%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+ 
+[![LeetCode](https://img.shields.io/badge/LeetCode-VanshShukla17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VanshShukla17/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-shuklavas930-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shuklavas930)
+ 
+</div>
+---
+ 
 ## 🎯 Currently
  
 | | |
 |---|---|
 | 🔭 **Building** | Quantum Quest, making quantum computing approachable |
-| 🧪 **Shipping soon** | CODEIFY, an AI code reviewer with complexity visualizations |
 | 🌱 **Learning** | Qiskit, system design, advanced DSA |
 | 👯 **Collaborate on** | AI + web projects, open source |
-| 💼 **Open to** | Internships, hackathons, and cool side projects |
 | ⚡ **Fun fact** | I debug best at 2 AM and regret it at 9 AM |
  
 ---
  
-## 🤝 Let's Connect
+## 🔗 Connect With Me
  
 <div align="center">
-<a href="https://www.linkedin.com/in/vansh-s-4271a2308/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/VanshShukla17/"><img src="https://img.shields.io/badge/Follow%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.geeksforgeeks.org/profile/shuklavas930"><img src="https://img.shields.io/badge/Follow%20on-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="mailto:shuklavansh1704@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-s-4271a2308/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-VanshShukla17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VanshShukla17/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-shuklavas930-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shuklavas930)
  
-</div>
-<div align="center">
 ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
- 
-⭐ *If you like what you see, drop a star on a repo!* ⭐
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer)
  
