@@ -105,7 +105,7 @@ Horror-themed cinema app: Now Showing, Midnight Shows, genres, ratings, movie pa
 
 <div align="center">
 
-![DSA](https://img.shields.io/badge/DSA%20Problems%20Solved-250%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA%20Problems%20Solved-450%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
 
