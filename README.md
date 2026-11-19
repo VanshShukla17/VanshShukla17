@@ -1,16 +1,16 @@
-<div align="center">
+ <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Vansh%20Shukla&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Quantum%20Curious&descAlignY=58&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Vansh%20Shukla&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Quantum%20Computing&descAlignY=58&descSize=19)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=680&height=50&lines=Hey+there%2C+I'm+Vansh+%F0%9F%91%8B;CSE+student+%40+JSS+Academy%2C+Bengaluru;I+build+AI-powered+web+apps+%F0%9F%A4%96;Currently+exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;250%2B+DSA+problems+solved+%F0%9F%A7%A9)](https://github.com/VanshShukla17)
+<h2>🏆 2× Hackathon Winner | Full-Stack Developer</h2>
 
-![hello](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Hey+there%2C+I'm+Vansh+%F0%9F%91%8B;CSE+Student+%40+JSS+Academy%2C+Bengaluru;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;2%C3%97+Hackathon+Winner+%F0%9F%8F%86;Exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;450%2B+DSA+Problems+Solved+%F0%9F%A7%A9)](https://github.com/VanshShukla17)
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-s-4271a2308/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklavansh1704@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VanshShukla17/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shuklavas930)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-s-4271a2308/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshShukla17)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VanshShukla17/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shuklavas930?tab=activity)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklavansh1704@gmail.com)
 
 </div>
 
@@ -18,17 +18,30 @@
 
 ## 👨‍💻 About Me
 
-```js
+```javascript
 const vansh = {
-  role: "Full-Stack Developer & CSE Undergrad",
-  location: "Bengaluru, India 🇮🇳",
-  education: "B.E. CSE @ JSS Academy of Technical Education (2024 - Present)",
-  currentlyBuilding: "Quantum Quest ⚛️",
-  currentlyLearning: ["Quantum Computing (Qiskit)", "System Design", "Advanced DSA"],
-  askMeAbout: ["React", "Node/Express", "FastAPI", "Supabase", "DSA"],
-  funFact: "I made a horror-themed cinema app because normal ones were too boring 🎃",
+    name: "Vansh Shukla",
+    role: "Full-Stack Developer & CSE Undergrad",
+    location: "Bengaluru, India 🇮🇳",
+    education: "B.E. CSE @ JSS Academy of Technical Education",
+    achievements: ["2× Hackathon Winner"],
+    currentlyBuilding: ["Quantum Quest", "QRaksha", "Codeify"],
+    currentlyLearning: [
+        "Advanced DSA",
+        "System Design",
+        "Quantum Computing"
+    ],
+    technologies: ["React", "Node.js", "Express", "Java", "FastAPI"],
+    interests: ["AI Integration", "Full-Stack Development", "Open Source"],
+    funFact: "I love turning complex ideas into working applications 🚀"
 };
 ```
+
+- 🔭 Building impactful applications combining **AI, Web Development & emerging technologies**.
+- 🏆 Secured **1st rank in a hackathon** and won another hackathon.
+- 💻 Practicing DSA and solving problems on LeetCode and GeeksforGeeks.
+- 🌱 Exploring Quantum Computing, Qiskit and System Design.
+- 🤝 Interested in Open Source and collaborating on meaningful projects.
 
 ---
 
@@ -36,9 +49,17 @@ const vansh = {
 
 <div align="center">
 
-![skills1](https://skillicons.dev/icons?i=java,py,c,js,html,css,react,vite,tailwind,nodejs,express,fastapi&theme=dark)
+**Languages & Frontend**
 
-![skills2](https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma,git,github,vercel,netlify,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=java,py,c,js,html,css,react,vite,tailwind)
+
+**Backend & Databases**
+
+![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,supabase,prisma)
+
+**Tools & Platforms**
+
+![Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman)
 
 </div>
 
@@ -46,20 +67,60 @@ const vansh = {
 
 ## 🚀 Featured Projects
 
-### ⚛️ Quantum Quest &nbsp; [`Live Demo`](https://quantum-quest-app.netlify.app/) &nbsp; ![private](https://img.shields.io/badge/repo-private-lightgrey?style=flat-square)
-AI-powered, gamified quantum learning platform: interactive lessons, quizzes, circuit playgrounds, AI grading and personalized hints.
+### ⚛️ Quantum Quest | [Live Demo](https://quantum-quest-app.netlify.app/)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+An AI-powered, gamified quantum computing learning platform designed to make complex quantum concepts interactive and accessible.
 
-### 🧪 CODEIFY &nbsp; ![soon](https://img.shields.io/badge/deploying-soon-orange?style=flat-square)
-AI code reviewer with Monaco Editor: explanations, fixes, and best / average / worst-case time and space complexity with visualizations.
+- Interactive quantum lessons and visualizations.
+- Quantum circuit playground with Monaco Editor.
+- AI-powered quizzes, grading and personalized hints.
+- Bloch Sphere visualization and Grover's Algorithm learning experience.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+**Tech Stack:**
 
-### 🎃 CineMacabre &nbsp; [`Live Demo`](https://cinemacabre.vercel.app) &nbsp; [`Source`](https://github.com/VanshShukla17/horror-cinema)
-Horror-themed cinema app: Now Showing, Midnight Shows, genres, ratings, movie pages and ticket booking.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+---
+
+### 🛡️ QRaksha | [Live Website](https://qraksha.vercel.app/dashboard)
+
+An AI-powered UPI QR verification and fraud detection platform designed to protect users from fake, cloned, replaced and relocated merchant QR codes.
+
+- Merchant identity verification.
+- QR code authenticity and consistency checks.
+- Location-based verification.
+- Fraud detection and trust scoring.
+- Blockchain-backed credential attestation.
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-8E75B2?style=flat-square)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square)
+
+---
+
+### 🧪 CODEIFY | AI Code Reviewer
+
+An AI-powered code reviewer and analyzer featuring an interactive Monaco Editor.
+
+- AI-powered code explanations and refactoring.
+- Automated bug detection and code improvements.
+- Time and space complexity analysis.
+- Visual complexity graphs.
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
@@ -70,30 +131,31 @@ Horror-themed cinema app: Now Showing, Midnight Shows, genres, ratings, movie pa
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanshShukla17/VanshShukla17/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanshShukla17/VanshShukla17/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/VanshShukla17/VanshShukla17/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/VanshShukla17/VanshShukla17/output/github-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=VanshShukla17&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=30,0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a855f7&text_color=c9d1d9&ring_color=00f7ff&border_radius=12)](https://github.com/VanshShukla17)
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshShukla17&layout=compact&langs_count=6&hide_border=true&bg_color=30,0f0c29,302b63,24243e&title_color=00f7ff&text_color=c9d1d9&border_radius=12)](https://github.com/VanshShukla17)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VanshShukla17&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=30,0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a855f7&text_color=c9d1d9&ring_color=00f7ff&border_radius=12" />
 
-[![Streak](https://streak-stats.demolab.com?user=VanshShukla17&timezone=Asia/Kolkata&hide_border=true&border_radius=12&background=30,0f0c29,302b63,24243e&ring=00f7ff&fire=ff7b00&currStreakNum=00f7ff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=a855f7&dates=9ca3af)](https://github.com/VanshShukla17)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshShukla17&layout=compact&langs_count=6&hide_border=true&bg_color=30,0f0c29,302b63,24243e&title_color=00f7ff&text_color=c9d1d9&border_radius=12" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VanshShukla17&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)
+<img width="70%" src="https://streak-stats.demolab.com?user=VanshShukla17&timezone=Asia/Kolkata&hide_border=true&border_radius=12&background=30,0f0c29,302b63,24243e&ring=00f7ff&fire=ff7b00&currStreakNum=00f7ff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=a855f7&dates=9ca3af" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=VanshShukla17&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
 <details>
-<summary><b>📈 Click to view my contribution activity graph</b></summary>
+<summary><b>📈 Click to view Contribution Activity Graph</b></summary>
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=VanshShukla17&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VanshShukla17&theme=tokyo-night&hide_border=true&area=true)
 
 </details>
 
@@ -105,6 +167,9 @@ Horror-themed cinema app: Now Showing, Midnight Shows, genres, ratings, movie pa
 
 ![DSA](https://img.shields.io/badge/DSA%20Problems%20Solved-450%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VanshShukla17/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-View%20Activity-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shuklavas930?tab=activity)
+
 </div>
 
 ---
@@ -113,22 +178,25 @@ Horror-themed cinema app: Now Showing, Midnight Shows, genres, ratings, movie pa
 
 | | |
 |---|---|
-| 🔭 **Building** | Quantum Quest, making quantum computing approachable |
-| 🌱 **Learning** | Qiskit, system design, advanced DSA |
-| 👯 **Collaborate on** | AI + web projects, open source |
-| ⚡ **Fun fact** | I debug best at 2 AM and regret it at 9 AM |
+| 🔭 **Building** | AI-powered applications and innovative web projects |
+| 🌱 **Learning** | Advanced DSA, System Design, Quantum Computing |
+| 🏆 **Achievement** | 2× Hackathon Winner |
+| 👨‍💻 **Practicing** | Data Structures & Algorithms in Java |
+| 🤝 **Open to** | Open Source, Internships & Collaborations |
+| ⚡ **Fun Fact** | I debug best at 2 AM and regret it at 9 AM |
+
+---
 
 <div align="center">
 
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💬 Let's Build Something Amazing Together!
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+**Thanks for visiting my profile! ⭐**
+
+![Profile Views](https://komarev.com/ghpvc/?username=VanshShukla17&label=Profile%20Views&color=00f7ff&style=flat)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer)
 
 </div>
-
-
-this is my profile for github update add cool things in it and add linkedin gfg and leetcode link
-
-https://www.geeksforgeeks.org/profile/shuklavas930?tab=activity
-https://leetcode.com/u/VanshShukla17/
-https://www.linkedin.com/in/vansh-s-4271a2308/?isSelfProfile=true
