@@ -87,7 +87,7 @@ An AI-powered, gamified quantum computing learning platform designed to make com
 
 ---
 
-### 🛡️ QRaksha | [Live Website](https://qraksha.vercel.app/dashboard)
+### 🛡️ QRaksha | [Live Website](https://qraksha.vercel.app)
 
 An AI-powered UPI QR verification and fraud detection platform designed to protect users from fake, cloned, replaced and relocated merchant QR codes.
 
