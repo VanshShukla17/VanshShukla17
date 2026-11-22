@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Vansh%20Shukla&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Quantum%20Computing&descAlignY=58&descSize=19)
 
-<h2>🏆 2× Hackathon Winner | Full-Stack Developer</h2>
+<h2>🏆 3× Hackathon Winner | Full-Stack Developer</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Hey+there%2C+I'm+Vansh+%F0%9F%91%8B;CSE+Student+%40+JSS+Academy%2C+Bengaluru;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;2%C3%97+Hackathon+Winner+%F0%9F%8F%86;Exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;450%2B+DSA+Problems+Solved+%F0%9F%A7%A9)](https://github.com/VanshShukla17)
 
@@ -38,7 +38,6 @@ const vansh = {
 ```
 
 - 🔭 Building impactful applications combining **AI, Web Development & emerging technologies**.
-- 🏆 Secured **1st rank in a hackathon** and won another hackathon.
 - 💻 Practicing DSA and solving problems on LeetCode and GeeksforGeeks.
 - 🌱 Exploring Quantum Computing, Qiskit and System Design.
 - 🤝 Interested in Open Source and collaborating on meaningful projects.
