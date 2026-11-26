@@ -27,11 +27,6 @@ const vansh = {
 
     achievements: ["3× Hackathon Winner"],
 
-    currentlyBuilding: [
-        "QRaksha",
-        "Codeify"
-    ],
-
     technologies: [
         "Java",
         "Python",
@@ -47,15 +42,26 @@ const vansh = {
         "Docker"
     ],
 
+    AIandLLM: [
+        "Large Language Models (LLMs)",
+        "Prompt Engineering",
+        "Embeddings",
+        "Transformers",
+        "Retrieval-Augmented Generation (RAG)",
+        "LangChain",
+        "LangGraph",
+        "Model Context Protocol (MCP)",
+        "AI API Integration"
+    ],
+
     interests: [
         "Full-Stack Development",
         "AI Integration",
         "AI-Powered Applications",
+        "LLM-Based Applications",
         "Open Source",
         "Software Engineering"
-    ],
-
-    funFact: "I love turning complex ideas into working applications 🚀"
+    ]
 };
 ```
 
