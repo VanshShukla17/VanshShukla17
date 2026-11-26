@@ -78,9 +78,12 @@ const vansh = {
 
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs)
 
-**Backend Development**
+### Backend Development
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,fastify,fastapi)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="48" alt="Node.js, Express.js, FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" height="48" alt="Fastify" />
+</p>
 
 **Databases & ORM**
 
