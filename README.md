@@ -215,8 +215,10 @@ An AI-powered code reviewer and analyzer featuring an interactive Monaco Editor.
 
 ---
 
-<div align="center">
+<hr>
 
-### 💬 Let's Build Something Amazing Together!
+<h3 align="center">💬 Let's Build Something Amazing Together!</h3>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyon
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
