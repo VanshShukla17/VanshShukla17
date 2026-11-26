@@ -1,10 +1,10 @@
  <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Vansh%20Shukla&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Quantum%20Computing&descAlignY=58&descSize=19)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Vansh%20Shukla&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI-Powered%20Applications&descAlignY=58&descSize=19)
 
 <h2>🏆 3× Hackathon Winner | Full-Stack Developer</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Hey+there%2C+I'm+Vansh+%F0%9F%91%8B;CSE+Student+%40+JSS+Academy%2C+Bengaluru;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;2%C3%97+Hackathon+Winner+%F0%9F%8F%86;Exploring+Quantum+Computing+%E2%9A%9B%EF%B8%8F;450%2B+DSA+Problems+Solved+%F0%9F%A7%A9)](https://github.com/VanshShukla17)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Hey+there%2C+I'm+Vansh+%F0%9F%91%8B;CSE+Student+%40+JSS+Academy%2C+Bengaluru;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;3%C3%97+Hackathon+Winner+%F0%9F%8F%86;Full-Stack+Development+%7C+AI+Integration;450%2B+DSA+Problems+Solved+%F0%9F%A7%A9)](https://github.com/VanshShukla17)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-s-4271a2308/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshShukla17)
@@ -19,33 +19,23 @@
 ## 👨‍💻 About Me
 
 ```javascript
-## 👨‍💻 About Me
-
-```javascript
 const vansh = {
     name: "Vansh Shukla",
-    role: "Full-Stack Developer | Aspiring AI Engineer",
+    role: "Full-Stack Developer & CSE Undergrad",
     location: "Bengaluru, India 🇮🇳",
     education: "B.E. CSE @ JSS Academy of Technical Education",
+
     achievements: ["3× Hackathon Winner"],
 
-    currentlyLearning: [
-        "LLMs: Transformers, Attention, Tokenization & Embeddings",
-        "RAG (Retrieval-Augmented Generation)",
-        "AI Agents & Stateful Workflows with LangGraph",
-        "MCP (Model Context Protocol) & MCP Servers",
-        "Prompt Engineering",
-        "LangChain & Vector Databases",
-        "OpenAI & Gemini API Integration",
-        "Python for AI Engineering",
-        "Ollama & Hugging Face",
-        "Pydantic",
-        "Docker & Deployment"
+    currentlyBuilding: [
+        "QRaksha",
+        "Codeify"
     ],
 
     technologies: [
         "Java",
         "Python",
+        "C",
         "JavaScript",
         "React",
         "Next.js",
@@ -58,22 +48,20 @@ const vansh = {
     ],
 
     interests: [
-        "LLM-Powered Applications",
-        "RAG Systems & AI Agents",
         "Full-Stack Development",
-        "AI Engineering",
-        "Open Source"
+        "AI Integration",
+        "AI-Powered Applications",
+        "Open Source",
+        "Software Engineering"
     ],
 
     funFact: "I love turning complex ideas into working applications 🚀"
 };
 ```
 
-```
-
-- 🔭 Building impactful applications combining **AI, Web Development & emerging technologies**.
-- 💻 Practicing DSA and solving problems on LeetCode and GeeksforGeeks.
-- 🌱 Exploring Quantum Computing, Qiskit and System Design.
+- 🔭 Building impactful applications combining **AI and Full-Stack Development**.
+- 💻 Practicing Data Structures & Algorithms in Java.
+- 🏆 3× Hackathon Winner.
 - 🤝 Interested in Open Source and collaborating on meaningful projects.
 
 ---
@@ -82,17 +70,25 @@ const vansh = {
 
 <div align="center">
 
-**Languages & Frontend**
+**Languages**
 
-![Skills](https://skillicons.dev/icons?i=java,py,c,js,html,css,react,vite,tailwind)
+![Languages](https://skillicons.dev/icons?i=java,py,c,js,html,css)
 
-**Backend & Databases**
+**Frontend Development**
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,supabase,prisma)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs)
+
+**Backend Development**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastify,fastapi)
+
+**Databases & ORM**
+
+![Databases](https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma)
 
 **Tools & Platforms**
 
-![Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,postman)
 
 </div>
 
@@ -139,7 +135,7 @@ An AI-powered UPI QR verification and fraud detection platform designed to prote
 
 ---
 
-### 🧪 CODEIFY | AI Code Reviewer
+### 🧪 Codeify | AI Code Reviewer
 
 An AI-powered code reviewer and analyzer featuring an interactive Monaco Editor.
 
@@ -151,8 +147,8 @@ An AI-powered code reviewer and analyzer featuring an interactive Monaco Editor.
 **Tech Stack:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
@@ -207,15 +203,14 @@ An AI-powered code reviewer and analyzer featuring an interactive Monaco Editor.
 
 ---
 
-## 🎯 Currently
+## 🎯 Current Focus
 
 | | |
 |---|---|
-| 🔭 **Building** | AI-powered applications and innovative web projects |
-| 🌱 **Learning** | Advanced DSA, System Design, Quantum Computing |
-| 🏆 **Achievement** | 2× Hackathon Winner |
-| 👨‍💻 **Practicing** | Data Structures & Algorithms in Java |
-| 🤝 **Open to** | Open Source, Internships & Collaborations |
+| 🔭 **Building** | QRaksha, Codeify & AI-powered applications |
+| 💻 **Practicing** | Data Structures & Algorithms in Java |
+| 🏆 **Achievement** | 3× Hackathon Winner |
+| 🤝 **Open To** | Open Source, Internships & Collaborations |
 | ⚡ **Fun Fact** | I debug best at 2 AM and regret it at 9 AM |
 
 ---
@@ -224,12 +219,4 @@ An AI-powered code reviewer and analyzer featuring an interactive Monaco Editor.
 
 ### 💬 Let's Build Something Amazing Together!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-**Thanks for visiting my profile! ⭐**
-
-![Profile Views](https://komarev.com/ghpvc/?username=VanshShukla17&label=Profile%20Views&color=00f7ff&style=flat)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer)
-
-</div>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyon
