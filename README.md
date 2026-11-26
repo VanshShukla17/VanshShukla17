@@ -19,22 +19,56 @@
 ## 👨‍💻 About Me
 
 ```javascript
+## 👨‍💻 About Me
+
+```javascript
 const vansh = {
     name: "Vansh Shukla",
-    role: "Full-Stack Developer & CSE Undergrad",
+    role: "Full-Stack Developer | Aspiring AI Engineer",
     location: "Bengaluru, India 🇮🇳",
     education: "B.E. CSE @ JSS Academy of Technical Education",
-    achievements: ["2× Hackathon Winner"],
-    currentlyBuilding: ["Quantum Quest", "QRaksha", "Codeify"],
+    achievements: ["3× Hackathon Winner"],
+
     currentlyLearning: [
-        "Advanced DSA",
-        "System Design",
-        "Quantum Computing"
+        "LLMs: Transformers, Attention, Tokenization & Embeddings",
+        "RAG (Retrieval-Augmented Generation)",
+        "AI Agents & Stateful Workflows with LangGraph",
+        "MCP (Model Context Protocol) & MCP Servers",
+        "Prompt Engineering",
+        "LangChain & Vector Databases",
+        "OpenAI & Gemini API Integration",
+        "Python for AI Engineering",
+        "Ollama & Hugging Face",
+        "Pydantic",
+        "Docker & Deployment"
     ],
-    technologies: ["React", "Node.js", "Express", "Java", "FastAPI"],
-    interests: ["AI Integration", "Full-Stack Development", "Open Source"],
+
+    technologies: [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "Fastify",
+        "FastAPI",
+        "Three.js",
+        "Docker"
+    ],
+
+    interests: [
+        "LLM-Powered Applications",
+        "RAG Systems & AI Agents",
+        "Full-Stack Development",
+        "AI Engineering",
+        "Open Source"
+    ],
+
     funFact: "I love turning complex ideas into working applications 🚀"
 };
+```
+
 ```
 
 - 🔭 Building impactful applications combining **AI, Web Development & emerging technologies**.
